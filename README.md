@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NayanTr09
-- 👀 I’m interested in learning about programming and DevOps
-- 🌱 I’m currently learning about DevOps and programming
-
+- 👀 I’m interested in learning about Progamming and DevOps
+- 🌱 I’m currently learning about DevOps and Programming
 - 📫 How to reach me : nayantripathi42@gmail.com
 
 <!---
